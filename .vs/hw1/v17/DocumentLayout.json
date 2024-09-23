@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\UMSL_3410_Project\\hw1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2853C746-4039-6B57-3833-6C263FE920E7}|Assembly-CSharp.csproj|d:\\programming\\umsl_3410_project\\hw1\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2853C746-4039-6B57-3833-6C263FE920E7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2853C746-4039-6B57-3833-6C263FE920E7}|Assembly-CSharp.csproj|d:\\programming\\umsl_3410_project\\hw1\\assets\\scripts\\movecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2853C746-4039-6B57-3833-6C263FE920E7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoveController.cs",
+              "DocumentMoniker": "D:\\Programming\\UMSL_3410_Project\\hw1\\Assets\\Scripts\\MoveController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveController.cs",
+              "ToolTip": "D:\\Programming\\UMSL_3410_Project\\hw1\\Assets\\Scripts\\MoveController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T19:23:37.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Programming\\UMSL_3410_Project\\hw1\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\Programming\\UMSL_3410_Project\\hw1\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T18:23:19.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
